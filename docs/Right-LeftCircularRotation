@@ -1,0 +1,13 @@
+Things to remember
+
+
+LeftShift 
+
+reversearray(arr, 0,d-1)
+reversearray(arr, d,n-1)
+reversearray(arr, 0,n-1)
+
+
+reversearray(arr, 0,n-d-1)
+reversearray(arr, n-d,n-1)
+reversearray(arr, 0,n-1)
